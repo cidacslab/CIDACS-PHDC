@@ -1,7 +1,5 @@
 # Scripts ETL OMOP — sifilis v2
 
-> Cada item tem link para **Abrir** no navegador e para **Baixar** o arquivo.
-
 - **000. Death - apenas para bebe.ipynb**  
   [Abrir](SCRIPTS_ETL_OMOP/ETL_SCRIPTS/sifilisv2/%20000.%20Death%20-%20apenas%20para%20bebe.ipynb) · {download}`Baixar <SCRIPTS_ETL_OMOP/sifilisv2/%20000.%20Death%20-%20apenas%20para%20bebe.ipynb>`
 
