@@ -6,4 +6,4 @@
 :titlesonly:
 :maxdepth: 1
 
-SCRIPTS_ETL_OMOP/ELT_SCRIPTS/sifilisv1/*.ipynb
+SCRIPTS_ETL_OMOP/ETL_SCRIPTS/sifilisv1/*.ipynb
