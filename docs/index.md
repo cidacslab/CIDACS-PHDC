@@ -2,6 +2,8 @@
 
 ```{toctree}
 :maxdepth: 2
-Documentation
-SCRIPTS
 
+Documentation
+Scripts
+Scripts_v2
+Scripts_tb
