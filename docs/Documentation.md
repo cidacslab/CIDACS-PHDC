@@ -37,7 +37,8 @@ The ETL covers the core CDM entities relevant to gestational syphilis:
 
 ### Download
 
-{download}`OHDSI ETL CDM v5.4 — Mapping Dataset Gestational Syphillis (PDF) <PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping_Dataset_Gestational_Syphillis.pdf>`
+  [Open](PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping_Dataset_Gestational_Syphilis.pdf) · {download}`Download <PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping_Dataset_Gestational_Syphilis.pdf>`
+
 
 > If the inline viewer does not work in your browser, use “Open in a new tab”.
 
