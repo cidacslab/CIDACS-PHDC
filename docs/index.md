@@ -14,5 +14,5 @@ SCRIPTS_ETL_OMOP
 # PDF DOCUMENTATION
 
 [OHDSI ETL CDM v5.4 — Mapping Dataset Gestational Syphilis]
-(PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping%20Dataset%20Gestational%20Syphilis.pdf)
+(docs/PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping%20Dataset%20Gestational%20Syphilis.pdf)
 
