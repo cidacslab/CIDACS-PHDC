@@ -1,18 +1,21 @@
 # CIDACS-PHDC
 
-Welcome, use the menu to navigate!
-
 ```{toctree}
 :maxdepth: 2
-PDF_DOCUMENTATION
-SCRIPTS_ETL_OMOP
+PDFs
 
 
-#  `docs/PDFs.md`
-
+# 2) `docs/PDFs.md`
 ```md
-# PDF DOCUMENTATION
+# Documentação em PDF
 
-[OHDSI ETL CDM v5.4 — Mapping Dataset Gestational Syphilis]
-(docs/PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping%20Dataset%20Gestational%20Syphilis.pdf)
+## Abrir em nova aba (link)
+[OHDSI ETL CDM v5.4 — Mapping Dataset Gestational Syphilis](PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping Dataset Gestational Syphilis.pdf)
 
+## Embutido na página
+<object
+  data="PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping Dataset Gestational Syphilis.pdf"
+  type="application/pdf"
+  width="100%"
+  height="900px">
+</object>
