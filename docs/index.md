@@ -2,6 +2,6 @@
 
 ```{toctree}
 :maxdepth: 2
-PDFs
+Documentation
 SCRIPTS
 
