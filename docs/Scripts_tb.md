@@ -1,6 +1,5 @@
 ## `TB Scripts`
 
-# Scripts ETL OMOP — TB
 
 - **10_death.ipynb**  
   [Abrir](SCRIPTS_ETL_OMOP/ETL_SCRIPTS/tb/10_death.ipynb) · {download}`Baixar <SCRIPTS_ETL_OMOP/tb/10_death.ipynb>`

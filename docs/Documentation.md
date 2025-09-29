@@ -1,7 +1,5 @@
 
 ## `Project Documentation`
-```md
-# PDF Documentation
 
 ## Open new web page (link)
 <a href="PDF_DOCUMENTATION/OHDSI_ETL_CDM_V5.4_Mapping_Dataset_Gestational_Syphilis.pdf" target="_blank" rel="noopener">

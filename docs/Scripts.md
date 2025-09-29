@@ -1,7 +1,5 @@
 ## `Syphilis v1 Scripts `
 
-# Scripts ETL OMOP — sifilisv1
-
 - **000. Death - apenas para bebe.ipynb**  
   [Abrir](SCRIPTS_ETL_OMOP/ETL_SCRIPTS/sifilisv1/000.%20Death%20-%20apenas%20para%20bebe.ipynb) · {download}`Baixar <SCRIPTS_ETL_OMOP/sifilisv1/000.%20Death%20-%20apenas%20para%20bebe.ipynb>`
 
