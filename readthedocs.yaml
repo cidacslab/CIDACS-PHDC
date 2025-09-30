@@ -3,12 +3,6 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.11"
-  jobs:
-    pre_build:
-      - git lfs version || true
-      - git lfs install --local || true
-      - git lfs fetch --all || true
-      - git lfs checkout
 sphinx:
   configuration: docs/conf.py
 python:
